@@ -1,8 +1,8 @@
-import './App.css'
-import MyComponent from './MyComponent';
+import "./App.css";
+import MyCompUpdater from "./MyCompUpdater";
 
 function App() {
-  return <MyComponent></MyComponent>;
+    return <MyCompUpdater />;
 }
 
-export default App
+export default App;
